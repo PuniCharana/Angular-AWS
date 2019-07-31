@@ -1,6 +1,6 @@
 {
   "name": "lorem-ipsum",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -43,6 +43,6 @@
     "protractor": "~5.4.0",
     "ts-node": "~8.3.0",
     "tslint": "~5.18.0",
-    "typescript": "^3.4.0"
+    "typescript": "~3.4.0"
   }
 }
